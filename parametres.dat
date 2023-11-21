@@ -1,2 +1,2 @@
-0. 6.28 0. 6.28 1.0 0.9 40 40
+0. 6.28 0. 8.13 1.0 0.9 40 60
 # xmin, xmax, ymin, ymax, tmax, cfl, imax, jmax
